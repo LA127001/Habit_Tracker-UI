@@ -1,4 +1,7 @@
-# habit_tracker
+# Habit_tracker
+<img width="208" height="2328" alt="Screenshot_20260204-185032" src="https://github.com/user-attachments/assets/8a766ac9-3971-4ffb-901c-29117a06c575" />
+
+
 
 A new Flutter project.
 
